@@ -8,9 +8,9 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-- 🎓 I’m an experienced Backend engineer<br>
+- 👩🏽‍💻 I’m an experienced Backend engineer<br>
 
-- 🔭 B.S.c in Software engineer at Ben-Gurion University <br>
+- 🎓 B.S.c in Software engineer at Ben-Gurion University <br>
 
 - 💪 I’m a quick learner, creative and a great team player <br>
 
