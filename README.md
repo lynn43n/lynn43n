@@ -12,8 +12,6 @@
 
 - 🎓 B.S.c in Software engineer at Ben-Gurion University <br>
 
-- 💪 I’m a quick learner, creative and a great team player <br>
-
 - 📫 How to reach me: <a href="mailto:nabulsylynn8@gmail.com">nabulsylynn8@gmail.com</a>
 
 </p>
